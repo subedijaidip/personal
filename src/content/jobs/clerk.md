@@ -1,5 +1,5 @@
 ---
-title: Senior UI Engineer
+title: Content Creator
 company: Clerk
 startDate: 2024-01-04
 projects:

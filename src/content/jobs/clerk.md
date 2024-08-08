@@ -1,7 +1,7 @@
 ---
 title: Content Creator
-company: Clerk
-startDate: 2024-01-04
+company: Mangobyte Digital
+startDate: 2021-12-26
 projects:
   - title: Clerk Elements
     href: "https://clerk.com/changelog/2024-05-02-elements-beta"

@@ -2,17 +2,6 @@
 title: Content Creator
 company: Mangobyte Digital
 startDate: 2021-12-26
-projects:
-  - title: Clerk Elements
-    href: "https://clerk.com/changelog/2024-05-02-elements-beta"
-    img:
-      src: /img/clerk-elements.webp
-      alt: Clerk elements sign-in/up component examples
-  - title: Clerk.com user auth page
-    href: "https://clerk.com/user-authentication"
-    img:
-      src: /img/clerk-user-auth.webp
-      alt: Clerk elements sign-in/up component examples
 tools:
   - Social Media Management
   - SEO & PPC
@@ -20,4 +9,4 @@ tools:
   - Digital Marketing Management
 ---
 
-UI Engineer apart of the design and SDK infra teams, currently working [Clerk Elements](https://clerk.com/docs/elements/overview) and our [UI components](https://clerk.com/docs/components/overview).
+Content Creator and SEO at Digital Marketing Agency serving clients from Australia and USA. Working with Real Estate and Migration Services client.

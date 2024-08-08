@@ -1,6 +1,6 @@
 ---
 title: Content Creator
-company: Mangobyte Digital
+company: Clerk
 startDate: 2021-12-26
 projects:
   - title: Clerk Elements

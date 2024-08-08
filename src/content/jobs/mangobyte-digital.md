@@ -1,6 +1,6 @@
 ---
 title: Content Creator
-company: Clerk
+company: Mangobyte Digital
 startDate: 2021-12-26
 projects:
   - title: Clerk Elements
@@ -14,10 +14,10 @@ projects:
       src: /img/clerk-user-auth.webp
       alt: Clerk elements sign-in/up component examples
 tools:
-  - Next.js
-  - Tailwind CSS
-  - TypeScript
-  - Framer Motion
+  - Social Media Management
+  - SEO & PPC
+  - Content Creation
+  - Digital Marketing Management
 ---
 
 UI Engineer apart of the design and SDK infra teams, currently working [Clerk Elements](https://clerk.com/docs/elements/overview) and our [UI components](https://clerk.com/docs/components/overview).

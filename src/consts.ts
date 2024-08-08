@@ -1,5 +1,5 @@
 export const SITE_VERSION = "4.0.2-alpha";
-export const SITE_TITLE = "Alex Carpenter";
+export const SITE_TITLE = "Jaidip Subedi";
 export const SITE_NAV = [
   {
     label: "Links",

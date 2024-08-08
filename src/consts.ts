@@ -19,7 +19,10 @@ export const SITE_NAV = [
   },
 ];
 export const JOBS = [
-  "Mangobyte Digital",
-  "Luminr SEO",
-  "PCPS College",
+  "Clerk",
+  "Watershed",
+  "HashiCorp",
+  "NationBuilder",
+  "Mighty in the Midwest",
+  "Masuga Design",
 ] as const;

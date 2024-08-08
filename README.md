@@ -1,14 +1,5 @@
-# alexcarpenter.me
+# Jaidip Subedi
 
 - Framework: Astro
-- Deployment: Vercel
+- Deployment: Cloudflare Pages
 - Styling: Tailwind CSS
-
-## Running locally
-
-```bash
-git clone https://github.com/alexcarpenter/alexcarpenter.me.git
-cd alexcarpenter.me
-bun install
-bun dev
-```

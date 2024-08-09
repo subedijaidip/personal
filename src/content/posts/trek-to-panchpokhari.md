@@ -1,6 +1,6 @@
 ---
 title: The Road Less Traveled - Panchpokhari Trek
-description: What I am up to now.
+description: Treks are hard. And there's Panchpokhari!
 published: 2023-08-01T08:00:00-0400
 updated: 2024-08-06T08:39:39-0400
 ---

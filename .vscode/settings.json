@@ -1,3 +1,4 @@
 {
-  "tailwindCSS.rootFontSize": 14
+  "tailwindCSS.rootFontSize": 14,
+  "makefile.configureOnOpen": false
 }

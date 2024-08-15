@@ -20,7 +20,7 @@ export const SITE_NAV = [
 ];
 export const JOBS = [
   "Mangobyte Digital",
-  "Watershed",
+  "Luminr",
   "HashiCorp",
   "NationBuilder",
   "Mighty in the Midwest",

@@ -21,4 +21,8 @@ export const SITE_NAV = [
 export const JOBS = [
   "Mangobyte Digital",
   "Luminr",
+  "HashiCorp",
+  "NationBuilder",
+  "Mighty in the Midwest",
+  "Masuga Design",
 ] as const;

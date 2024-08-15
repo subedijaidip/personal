@@ -16,4 +16,4 @@ Disallow: /
 User-agent: FacebookBot
 Disallow: /
 
-Sitemap: https://alexcarpenter.me/sitemap-index.xml
+Sitemap: https://jaidip.com.np/sitemap-index.xml

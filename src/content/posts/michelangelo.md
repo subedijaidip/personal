@@ -22,6 +22,8 @@ Michelangelo’s approach changed how people think about art. His belief that ar
 
 Today, when we look at Michelangelo’s works like the statue of David or the Pietà, we see more than just beautiful sculptures. We see the result of a profound understanding of art—one that suggests every block of marble, every canvas, holds something special that just needs the right touch to come to life.
 
+![David by Michelangelo, Florence, Galleria dell'Accademia, 1501-1504](https://jaidip.com.np/img/david-michelangelo.webp)
+
 ## Embracing the Philosophy
 Michelangelo’s story teaches us an important lesson about creativity and art. It’s not just about what you create but about what you discover. Whether you’re an artist or simply someone who appreciates art, this perspective invites you to see the process of making art as a journey of uncovering hidden beauty.
 

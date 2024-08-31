@@ -1,5 +1,5 @@
 ---
-title: Michelangelo’s Mastery: How Art Reveals Itself
+title: Michelangelo’s Mastery on How Art Reveals Itself
 description: Revealing the masterpiece hidden within.
 published: 2024-08-30T08:00:00-0400
 updated: 2024-08-30T08:39:39-0400

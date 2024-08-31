@@ -2,6 +2,7 @@
 title: Michelangelo’s Mastery: How Art Reveals Itself
 description: Revealing the masterpiece hidden within.
 published: 2024-08-30T08:00:00-0400
+updated: 2024-08-30T08:39:39-0400
 ---
 
 Imagine Florence during the Renaissance. Among its cobblestone streets and bustling markets, a young Michelangelo Buonarroti stands before a massive block of marble, deep in thought. For four long months, he stares at this block, seemingly doing nothing. This seemingly strange behavior would later become the heart of a powerful story about art and creativity.

@@ -2,7 +2,7 @@
 title: Michelangelo’s Mastery on How Art Reveals Itself
 description: Revealing the masterpiece hidden within.
 published: 2024-08-30T08:00:00-0400
-updated: 2024-08-30T08:39:39-0400
+updated: 2024-09-07T08:39:39-0400
 ---
 
 Imagine Florence during the Renaissance. Among its cobblestone streets and bustling markets, a young Michelangelo Buonarroti stands before a massive block of marble, deep in thought. For four long months, he stares at this block, seemingly doing nothing. This seemingly strange behavior would later become the heart of a powerful story about art and creativity.
@@ -30,3 +30,5 @@ Michelangelo’s story teaches us an important lesson about creativity and art. 
 So next time you approach a creative project, remember Michelangelo’s approach: look for what’s already there and bring it to light. You might find that the most remarkable creations are waiting to be discovered within the materials you work with.
 
 Reference: [The Artist as a Medium.](https://web.archive.org/web/20150409025347/http://forums.philosophyforums.com/threads/the-artist-as-a-medium-40933.html)
+
+![Written by Human, Not by AI](https://jaidip.com.np/img/not-by-ai.png)
